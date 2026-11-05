@@ -4,6 +4,7 @@
 // @version      1.8.3
 // @description  Alterna o Pleito por botão e permite memorizar o turno com persistência opcional, inclusive nas consultas completa e por inscrição/CPF
 // @author       Ramon
+// @license      MIT
 // @match        https://cad-elo22.tse.jus.br/*
 // @run-at       document-idle
 // @grant        none
